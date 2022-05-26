@@ -15,6 +15,8 @@ https://pomoc.home.pl/baza-wiedzy/jak-polaczyc-sie-do-bazy-mssql-z-poziomu-php
 https://bulldogjob.pl/readme/pobieranie-danych-w-react-za-pomoca-hookow // like conection
 Standart react tutorial:
 https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
+Switch on click backgroundColor:
+https://bobbyhadz.com/blog/react-change-background-color-on-click
 
 // C++ dataBase
 https://www.youtube.com/watch?v=bxLyWcpblDI
