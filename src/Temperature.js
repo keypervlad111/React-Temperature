@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Temperature.css';
 
 function Temperature() {
-    const temperature = '24.4';
+    const [temperature, setTemperature] = useState(24.3); // !!!
     const wilgotnosc = '44.4';
 
+    
   return (
     <>
     <div class='main'>
